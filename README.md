@@ -1,7 +1,7 @@
 # First Step
 The best way to get the homeless off the streets is to provide them with a job; with a First Step. 💼
 
-1st Place Workday Init() Hackathon
+[1st Place Workday Init() Hackathon](https://init-by-slo-hacks.devpost.com/)
 
 [First Step DevPost](https://devpost.com/software/first-step-ri76bo)
 
