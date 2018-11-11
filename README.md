@@ -1,19 +1,20 @@
-# BlueFire Platform
-In the event of a wildfire or other natural disasters we help civilians and public authorities best communicate the necessary information - even without cell tower communications - in order to save more lives.
+# First Step
+The best way to get the homeless off the streets is to provide them with a job; with a First Step. 💼
 
-[BlueFire website: as seen by authorities](https://bluefire.netlify.com/home)
+1st Place Workday Init() Hackathon
 
-[Some notes about WorkDay Pulse Point](https://docs.google.com/document/d/19Lc4Eyt837jIfE4nofgFYoItMu48j5Cj4rgf3vBrBxA/edit#)
+[First Step DevPost](https://devpost.com/software/first-step-ri76bo)
 
-[![alt_text](https://github.com/cwllau/BlueFire_Firecode/blob/master/menu_screenshot.PNG)](https://www.youtube.com/watch?v=wAQ0-3zr5Hg)
-![alt text](https://github.com/cwllau/BlueFire_Firecode/blob/master/firebase.PNG)
+[Wireframing](https://projects.invisionapp.com/share/GMP1WAK5WDZ#/screens)
+
+![alt_text](https://github.com/cwllau/hobjob_yay/blob/listview_button/menu_screenshot.PNG)
+![alt text](https://github.com/cwllau/hobjob_yay/blob/listview_button/job_postings.png)
+![alt text](https://github.com/cwllau/hobjob_yay/blob/listview_button/maps_screenshot.png)
+![alt text](https://github.com/cwllau/hobjob_yay/blob/listview_button/dashboard.png)
 
 
 
 # How it works:
-Users are able to see their current location with respect to firefighters, medical aid, and shelters.
-Using Bluetooth technology and mesh networking we are able to inform the community of how to best react in this situation. Firebase is our backend database that keeps track of all the events and personnel on ground.
+First Step is a mobile service that connects homeless people to nearby jobs. Homeowners can post jobs they need accomplished and homeless people can apply for those jobs. To verify trustworthiness, the job posters can chat with the applicants before accepting the person. Once a person is accepted for a job, a map and route is downloaded so that offline navigation is possible.
 
-We were able to access Workday's Pulse Point historical data, however for this implementation we focused on the current user's experience.
-
-Let BlueFire ignite your life🔥
+After completing a successful job, the homeless person will have increased self-confidence. They will be more likely to seek out more work and eventually a stable job to re-enter society with. 💪
