@@ -17,4 +17,4 @@ The best way to get the homeless off the streets is to provide them with a job; 
 # How it works:
 First Step is a mobile service that connects homeless people to nearby jobs. Homeowners can post jobs they need accomplished and homeless people can apply for those jobs. To verify trustworthiness, the job posters can chat with the applicants before accepting the person. Once a person is accepted for a job, a map and route is downloaded so that offline navigation is possible.
 
-After completing a successful job, the homeless person will have increased self-confidence. They will be more likely to seek out more work and eventually a stable job to re-enter society with. 💪
+After completing a successful job, the homeless person will have increased self-confidence. They will be more likely to seek out more work and eventually a stable job to re-enter society with. 
